@@ -113,3 +113,52 @@ export const jobCategory = [
         jobs : "2.7K"
     },
 ];
+
+export const works = [
+    {
+        "name" : "Build your Resume",
+        "desc" : "Create a standout resume with your skills.",
+        "src" : "https://www.clipartmax.com/png/middle/12-127042_student-attendance-student-id-card-icon.png"
+    },
+    {
+        "name" : "Apply for Job",
+        "desc" : "Find and apply for jobs that match your skills.",
+        "src" : "https://static.thenounproject.com/png/2714905-200.png"
+    },
+    {
+        "name" : "Get Hired",
+        "desc" : "Connect with employers and start your new job.",
+        "src" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7SpoIyrU-x_LPIUVdJ3j_yZ3P0QMRftN4Qg&s"
+    }
+]
+
+export const testimonials = [
+    {
+        "name" : "Shankar Sharma",
+        "testimonials" : "This job portal made job search easy and quick. Recommend to all job seekers.",
+        "rating" : 5
+    },
+    {
+        "name" : "Divyanshu Gupta",
+        "testimonials" : "This job portal made job search easy and quick. Recommend to all job seekers.",
+        "rating" : 5
+    },
+    {
+        "name" : "Palak Gupta",
+        "testimonials" : "This job portal made job search easy and quick. Recommend to all job seekers.",
+        "rating" : 5
+    },
+    {
+        "name" : "Athrav Illmulwar",
+        "testimonials" : "This job portal made job search easy and quick. Recommend to all job seekers.",
+        "rating" : 5
+    }
+]
+
+export const footerLinks = [
+    {title : "Product" , links : ["Find Job" , "Find Company" , "Find Employer"]},
+    {title : "Company" , links : ["About Us" , "Contact Us" , "Privacy Policy" , "Terms & Conditions"]},
+    {title : "Support" , links : ["Help & Support" , "Feedback" , "FAQs"]}
+]
+
+

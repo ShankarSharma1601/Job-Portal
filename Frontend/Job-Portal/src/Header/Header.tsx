@@ -7,7 +7,7 @@ const Header = () => {
     <div className="w-full bg-mine-shaft-950 text-white h-20 px-10 flex justify-between items-center">
         <div className="flex gap-1 items-center text-bright-sun-400 mx-4">
             <IconSquareLetterJ className="h-8 w-8" stroke={2.5}/>
-            <div className="text-3xl font-semibold">iJobs</div>
+            <div className="text-2xl font-semibold">iJobs</div>
         </div>
         <NavLinks/>
         <div className="flex gap-3 items-center mx-5">
