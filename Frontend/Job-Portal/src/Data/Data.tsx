@@ -1,5 +1,7 @@
 // export const companies = ["Google" , "Amazon" , "Figma" , "Netflix" , "Meta" , "Microsoft" , "Pinterest" , "Slack" , "Oracle" , "Walmart"];
 
+import { IconBriefcase, IconMapPin, IconRecharging, IconSearch } from "@tabler/icons-react";
+
 export const companies = [{
     name : "Google",
     src : "https://w7.pngwing.com/pngs/63/1016/png-transparent-google-logo-google-logo-g-suite-chrome-text-logo-chrome.png",
@@ -161,4 +163,41 @@ export const footerLinks = [
     {title : "Support" , links : ["Help & Support" , "Feedback" , "FAQs"]}
 ]
 
+export const jobList = [
+    {
+        jobTitle : "Product Designer",
+        company : "Meta",
+        applicants : 25,
+        experience : "Entry Level",
+        jobType : "Full-Time",
+        location : "New York",
+        package : "32 LPA",
+    }
+]
 
+export const dropdownData = [
+    {
+        title : "Job Title",
+        icon : IconSearch , 
+        options : [
+            'Designer' , 'Developer' , 'Product Manager' , 'Marketing Specialist' , 'Data Analyst' , 'Sales Executive' , 'Content Writer' , 'Custoer Support'
+        ]
+    },
+    {
+        title : "Location",
+        icon : IconMapPin,
+        options : [
+            'Delhi' , 'New York' , 'San Francisco' , 'London' , 'Berlin' , 'Tokyo' , 'Sydney' , 'Toronto'
+        ]
+    },
+    {
+        title : "Experience",
+        icon : IconBriefcase,
+        options : ['Entry Level' , 'Intermediate' , 'Expert']
+    },
+    {
+        title : "Job Type",
+        icon : IconRecharging,
+        options : ['Full Time' , 'Part Time' , 'Contract' , 'Freelance' , 'Intership']
+    }
+]
