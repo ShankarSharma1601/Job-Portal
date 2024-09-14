@@ -172,6 +172,85 @@ export const jobList = [
         jobType : "Full-Time",
         location : "New York",
         package : "32 LPA",
+        postedDaysAgo : 12,
+        description : "Meta is seeking a Product Designer to join our team.You'll be working on designing user-centric interfaces for our blockchain wallet platform.This is an excellent opportunity for entry-level designers to grow their skills in a dynamic environment."
+    },
+    {
+        jobTitle : "Product Designer",
+        company : "Meta",
+        applicants : 25,
+        experience : "Entry Level",
+        jobType : "Full-Time",
+        location : "New York",
+        package : "32 LPA",
+        postedDaysAgo : 12,
+        description : "Meta is seeking a Product Designer to join our team.You'll be working on designing user-centric interfaces for our blockchain wallet platform.This is an excellent opportunity for entry-level designers to grow their skills in a dynamic environment."
+    },
+    {
+        jobTitle : "Product Designer",
+        company : "Meta",
+        applicants : 25,
+        experience : "Entry Level",
+        jobType : "Full-Time",
+        location : "New York",
+        package : "32 LPA",
+        postedDaysAgo : 12,
+        description : "Meta is seeking a Product Designer to join our team.You'll be working on designing user-centric interfaces for our blockchain wallet platform.This is an excellent opportunity for entry-level designers to grow their skills in a dynamic environment."
+    },
+    {
+        jobTitle : "Product Designer",
+        company : "Meta",
+        applicants : 25,
+        experience : "Entry Level",
+        jobType : "Full-Time",
+        location : "New York",
+        package : "32 LPA",
+        postedDaysAgo : 12,
+        description : "Meta is seeking a Product Designer to join our team.You'll be working on designing user-centric interfaces for our blockchain wallet platform.This is an excellent opportunity for entry-level designers to grow their skills in a dynamic environment."
+    },
+    {
+        jobTitle : "Product Designer",
+        company : "Meta",
+        applicants : 25,
+        experience : "Entry Level",
+        jobType : "Full-Time",
+        location : "New York",
+        package : "32 LPA",
+        postedDaysAgo : 12,
+        description : "Meta is seeking a Product Designer to join our team.You'll be working on designing user-centric interfaces for our blockchain wallet platform.This is an excellent opportunity for entry-level designers to grow their skills in a dynamic environment."
+    },
+    {
+        jobTitle : "Product Designer",
+        company : "Meta",
+        applicants : 25,
+        experience : "Entry Level",
+        jobType : "Full-Time",
+        location : "New York",
+        package : "32 LPA",
+        postedDaysAgo : 12,
+        description : "Meta is seeking a Product Designer to join our team.You'll be working on designing user-centric interfaces for our blockchain wallet platform.This is an excellent opportunity for entry-level designers to grow their skills in a dynamic environment."
+    },
+    {
+        jobTitle : "Product Designer",
+        company : "Meta",
+        applicants : 25,
+        experience : "Entry Level",
+        jobType : "Full-Time",
+        location : "New York",
+        package : "32 LPA",
+        postedDaysAgo : 12,
+        description : "Meta is seeking a Product Designer to join our team.You'll be working on designing user-centric interfaces for our blockchain wallet platform.This is an excellent opportunity for entry-level designers to grow their skills in a dynamic environment."
+    },
+    {
+        jobTitle : "Product Designer",
+        company : "Meta",
+        applicants : 25,
+        experience : "Entry Level",
+        jobType : "Full-Time",
+        location : "New York",
+        package : "32 LPA",
+        postedDaysAgo : 12,
+        description : "Meta is seeking a Product Designer to join our team.You'll be working on designing user-centric interfaces for our blockchain wallet platform.This is an excellent opportunity for entry-level designers to grow their skills in a dynamic environment."
     }
 ]
 
